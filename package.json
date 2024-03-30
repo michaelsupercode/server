@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "server",
   "version": "1.0.0",
   "description": "Brathering Shop - Amazon Konkurrenz",
   "main": "src/index.js",
